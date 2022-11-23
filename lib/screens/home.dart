@@ -32,6 +32,10 @@ class _HomeState extends State<Home> {
               return Center(child: CircularProgressIndicator());
             }
             final superHeros = value.superHeros;
+            if (superHeros.length == 0) {
+              return Center(
+                  child: const Text("Please enable internet and restart app"));
+            }
 
             return ListView.builder(
               itemCount: superHeros.length,
