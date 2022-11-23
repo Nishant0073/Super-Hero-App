@@ -16,10 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # Super-Hero-App
 
-![Alt text List Of Super Heros](/screenshots/1.jpg?raw=true)
+[url=https://postimg.cc/SJSb0n4x][img]https://i.postimg.cc/SJSb0n4x/1.jpg[/img][/url] [url=https://postimg.cc/KKgd7LPJ][img]https://i.postimg.cc/KKgd7LPJ/2.jpg[/img][/url] [url=https://postimg.cc/G4fWszy4][img]https://i.postimg.cc/G4fWszy4/3.jpg[/img][/url] [url=https://postimg.cc/qNgfRWzf][img]https://i.postimg.cc/qNgfRWzf/4.jpg[/img][/url]
 
-![Alt text  Detailed Page 1 of Super Heros](/screenshots/1.jpg?raw=true)
 
-![Alt text  Detailed Page 2 of Super Heros](/screenshots/1.jpg?raw=true)
-
-![Alt text  Detailed Page 3 of Super Heros](/screenshots/1.jpg?raw=true)
